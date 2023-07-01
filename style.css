@@ -1,0 +1,62 @@
+body {
+    background-color:lightblue;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.logo {
+    color:steelblue;
+}
+nav  {
+    display: inline-flex;
+    float: right;
+    margin-top: 20px;
+    
+  
+}
+ul {
+  list-style-type: none;
+}
+
+
+   
+   ul li {
+    display: inline;
+    font-size:20px ;
+    font-weight: bold;
+    padding: left 100px; 
+    padding-right:100px ;
+    color:steelblue;
+ 
+     padding: bottom 300px;
+  }
+.logo {
+  float: left;
+ padding-right: 650px;
+  font-weight: bold;
+}
+section {
+  display: inline-flex;
+  padding-top: 150px;
+  height: 400px;
+  float: left;
+  align-items: center;
+  color: steelblue;
+}
+img {
+  width: 400px;
+  height: 400px;
+  padding-top: 100px;
+  padding-left: 600px;
+}
+.learn {
+
+ border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+  border: radius 5px; 
+  background-color:steelblue ;
+}
+
+
+
+   
